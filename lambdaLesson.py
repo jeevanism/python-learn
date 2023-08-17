@@ -1,7 +1,7 @@
 #lambda expression (amomymous function)
 """
     if there is a use case that a function is required only once, better us a lambda expression instead of a function
-    lets creare a normal function first then convert it into lambda
+    lets create a normal function first then convert it into lambda
 """
 
 
